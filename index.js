@@ -12,7 +12,7 @@ app.get('/', (req, res) => {
       <title>Hello from Jay sadhu</title>
     </head>
     <body>
-      <h1>Hii Hello from mavani</h1>
+      <h1>Yudiz Solutions</h1>
     </body>
     </html>
   `);
