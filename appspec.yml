@@ -12,6 +12,6 @@ hooks:
       timeout: 300
       runas: ubuntu
   ApplicationStart:
-    - location: scripts/start_pm2.sh
+    - location: scripts/satart_pm2.sh
       timeout: 300
       runas: ubuntu
